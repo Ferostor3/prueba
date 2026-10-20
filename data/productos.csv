@@ -1,0 +1,8 @@
+sku,nombre,categoria,precio_lista,margen_pct,visible_externo
+P-100,Plan Empresa Plus,Servicios,12500,32,true
+P-101,Plan Empresa Base,Servicios,8500,28,true
+P-102,Licenciamiento Anual,Software,42000,18,false
+P-103,Soporte Premium 24x7,Servicios,18900,35,true
+P-104,Implementación Onboarding,Servicios,22000,40,false
+P-105,Kit Comercial Estándar,Hardware,5600,22,true
+P-106,Integración API,Software,31000,15,false

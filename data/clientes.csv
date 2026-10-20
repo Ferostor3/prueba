@@ -1,0 +1,7 @@
+id_cliente,nombre,region,comercial_asignado,estatus
+C-001,Grupo Industrial Delta,Norte,Ana López,Activo
+C-002,Comercializadora Sol,Centro,Carlos Ruiz,Activo
+C-003,Red Médica Horizonte,Sur,María Gómez,Activo
+C-004,Logística Rápida SA,Norte,Ana López,Prospecto
+C-005,Tecnología Norte,Centro,Carlos Ruiz,Activo
+C-006,Distribuidora Pacífico,Sur,María Gómez,Activo
